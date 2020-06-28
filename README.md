@@ -16,9 +16,9 @@ Tetris that uses Observer Pattern
 
 **Add to your libraries path:**
 
-* ...\SDL2\lib\x86
-* ...\SDL2_image\lib\x86
-* ...\SDL2_ttf\lib\x86
+* ...\SDL2\lib\x64
+* ...\SDL2_image\lib\x64
+* ...\SDL2_ttf\lib\x64
 
 **The following files need to be present in your working directory:**
 
