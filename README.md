@@ -4,9 +4,9 @@ Tetris that uses Observer Pattern
 # Compiling on Windows(VS 17)
 **Required  Libraries:**
 
-* SDL2
-* SDL2_image
-* SDL2_ttf
+* [SDL2](https://www.libsdl.org/release/SDL2-devel-2.0.7-VC.zip)
+* [SDL2_image](https://www.libsdl.org/projects/SDL_image/release/SDL2_image-devel-2.0.2-VC.zip)
+* [SDL2_ttf](https://www.libsdl.org/projects/SDL_ttf/release/SDL2_ttf-devel-2.0.14-VC.zip)
 
 **Add to your include paths from project properties:**
 
