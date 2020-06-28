@@ -14,18 +14,21 @@ Tetris that uses Observer Pattern
 * ...\SDL2\include
 * ...\SDL2_image\include
 * ...\SDl2_ttf\include
+* ...\SDL2_mixer\include
 
 **Add to your libraries path:**
 
 * ...\SDL2\lib\x64
 * ...\SDL2_image\lib\x64
 * ...\SDL2_ttf\lib\x64
+* ...\SDL2_mixer\lib\x64
 
 **The following files need to be present in your working directory:**
 
 * SDL2.dll
 * SDL2_image.dll
 * SDL2_ttf.dll
+* SDL2_mixer.dll
 * libfreetype-6.dll
 * libjpeg-9.dll
 * libpng16-16.dll
